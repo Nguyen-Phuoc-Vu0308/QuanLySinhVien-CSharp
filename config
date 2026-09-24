@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = http://github.com/Nguyen-Phuoc-Vu0308/QuanLySinhVien-CSHarp.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
